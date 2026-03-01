@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = 
-build_property.ProjectDir = /Users/lidiacaneiropardo/Desktop/SM/
+build_property.ProjectDir = /Users/lidiacaneiropardo/SM/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
